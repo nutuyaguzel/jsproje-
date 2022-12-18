@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "jspro",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
